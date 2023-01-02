@@ -1,2 +1,3 @@
-status = [ "Rust" ]
-delete_merged_branches = true
+version https://git-lfs.github.com/spec/v1
+oid sha256:ebd69f714a49dceb8fd10ebadfea6e2767be4732fdef49eddf6239151b4bc78c
+size 50
